@@ -1,5 +1,5 @@
 
-```
+```    
 #include "raylib.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -235,6 +235,6 @@ int main(void) {
     // 자원 해제
     CloseWindow();
     return 0;
-}
-``` 
+}    
+```
 
