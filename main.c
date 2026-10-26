@@ -1,4 +1,4 @@
-# 무지개 블록깨기 게임
+## 무지개 블록깨기 게임 코드
 
 #include "raylib.h"
 #include <stdio.h>
@@ -236,4 +236,3 @@ int main(void) {
     CloseWindow();
     return 0;
 }
-```
