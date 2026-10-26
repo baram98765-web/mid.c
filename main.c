@@ -1,4 +1,5 @@
-```
+# 무지개 블록깨기 게임
+
 #include "raylib.h"
 #include <stdio.h>
 #include <stdlib.h>
